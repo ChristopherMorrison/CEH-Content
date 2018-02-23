@@ -16,7 +16,7 @@ I am not an authorized CEH educator so these presentations will not count as CEH
 ## 1: Introduction to Ethical Hacking
 [Slide Deck](https://docs.google.com/presentation/d/1TtOrD60MqqBp2jlWBEmcxb-_07pBMzGstDILy7Lp4u8/edit?usp=sharing)
 #### Notes
-- This is just the boilerplate of CEH in general, nothing to exciting
+- This is just the boilerplate of CEH in general, nothing too exciting
 
 
 
