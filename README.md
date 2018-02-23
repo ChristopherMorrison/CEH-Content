@@ -1,11 +1,14 @@
 # CEH-Content
 Collection of presentations and activities I've prepared for CYBER@UC, the UC OWASP chapter, focusing on the basics of the Certified Ethical Hacker (CEH) curriculum.
+
 I am not an authorized CEH educator so these presentations will not count as CEH training sessions. However they should be a good start for understanding CEH content.
 
 ## Contents
 [1: Introduction to Ethical Hacking](#1-Introduction-to-Ethical-Hacking)
+
 [2: Systems Overview](#2-Systems-Overview)
 
+[3: Cryptography Overview](#3-cryptography-overview)
 
 ## 1: Introduction to Ethical Hacking
 [Slide Deck](https://docs.google.com/presentation/d/1TtOrD60MqqBp2jlWBEmcxb-_07pBMzGstDILy7Lp4u8/edit?usp=sharing)
