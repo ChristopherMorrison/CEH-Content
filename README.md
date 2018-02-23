@@ -4,9 +4,9 @@ Collection of presentations and activities I've prepared for CYBER@UC, the UC OW
 I am not an authorized CEH educator so these presentations will not count as CEH training sessions. However they should be a good start for understanding CEH content.
 
 ## Contents
-[1: Introduction to Ethical Hacking](#1-Introduction-to-Ethical-Hacking)
+[1: Introduction to Ethical Hacking](#1-introduction-to-ethical-hacking)
 
-[2: Systems Overview](#2-Systems-Overview)
+[2: Systems Overview](#2-systems-overview)
 
 [3: Cryptography Overview](#3-cryptography-overview)
 
