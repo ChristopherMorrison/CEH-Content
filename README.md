@@ -10,10 +10,16 @@ I am not an authorized CEH educator so these presentations will not count as CEH
 
 [3: Cryptography Overview](#3-cryptography-overview)
 
+
+
+
 ## 1: Introduction to Ethical Hacking
 [Slide Deck](https://docs.google.com/presentation/d/1TtOrD60MqqBp2jlWBEmcxb-_07pBMzGstDILy7Lp4u8/edit?usp=sharing)
 #### Notes
 - This is just the boilerplate of CEH in general, nothing to exciting
+
+
+
 
 ## 2: Systems Overview
 [Slide Deck](https://docs.google.com/presentation/d/1qyFsFAmPrwXTrZpHmKUd9HqqAHjJk3DQRpRJtICLlH0/edit?usp=sharing
@@ -28,6 +34,9 @@ I am not an authorized CEH educator so these presentations will not count as CEH
 - The AWS instance also had an Apache 2 instance sitting at port 63215 which both allowed us to have some fun in finding it and to demonstrate the slowloris DOS attack which cripples Apache 2 webservers
 - Wireshark is touched here but really deserves its own workshop
 - The prize for the aluminum challenge was a large piece of aluminum metal
+
+
+
 
 ## 3: Cryptography Overview
 [Slide Deck](https://docs.google.com/presentation/d/17K8OSPL5mTLXwjHsPPlchVhKPDQEOr57LpW1Zux9n4s/edit?usp=sharing)
